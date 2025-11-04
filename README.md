@@ -3,8 +3,8 @@
 A creative-coding prototype for **A2: Code Prototype**.  
 It turns the Pomodoro technique into a **calm, visual experience**: a digital flower **blooms** during focus time, **rests** on breaks, and **shrinks** when the cycle ends until you “water” it again.
 
-- **Author: Ngoc Tuong Lam Dang - 25088269  
-- **Course/Assessment: 52685 Working with Data and Code/ A2: Code Prototype Project  
+- Author: Ngoc Tuong Lam Dang - 25088269  
+- Course/Assessment: 52685 Working with Data and Code/ A2: Code Prototype Project  
 - **Explainer Video (Unlisted):** `https://youtu.be/qcyTlRs2AJc`  
 - **Reflection (PDF):** `[link if you host it]`
 
