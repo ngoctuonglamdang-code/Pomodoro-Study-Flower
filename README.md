@@ -5,8 +5,7 @@ It turns the Pomodoro technique into a **calm, visual experience**: a digital fl
 
 - Author: Ngoc Tuong Lam Dang - 25088269  
 - Course/Assessment: 52685 Working with Data and Code/ A2: Code Prototype Project  
-- **Explainer Video (Unlisted):** `https://youtu.be/qcyTlRs2AJc`  
-- **Reflection (PDF):** `[link if you host it]`
+- **Explainer Video (Unlisted):** `https://youtu.be/qcyTlRs2AJc`  `
 
 
 ## Project Overview
